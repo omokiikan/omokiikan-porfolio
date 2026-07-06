@@ -45,6 +45,8 @@ My background in **Mathematics** provides a solid analytical foundation, and I'm
 ---
 ## 📂 Featured Projects
 
+https://github.com/omokiikan/world-cup-2026-group-analysis
+
 ### ⚽ FIFA World Cup 2026 – Group of Death Analysis
 A comprehensive sports analytics project that identifies the tournament's toughest group using FIFA rankings, match statistics, and a custom **Death Index**.
 
