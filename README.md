@@ -26,6 +26,7 @@ My background in **Mathematics** provides a solid analytical foundation, and I'm
 
 ### Data Analysis
 - Microsoft Excel
+- Google Sheet
 - Power BI
 - Power Query
 - Pivot Tables
